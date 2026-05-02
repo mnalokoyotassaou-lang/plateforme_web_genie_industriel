@@ -41,7 +41,7 @@ D. Communication & Vitrine
 
     Traçabilité : Maintenir un historique précis des contributions de chaque membre et de l'évolution des projets.
 #  pour lancer le projet si vous avez git installer 
-ouvrir un terminal tapez : git clone 
+ouvrir un terminal tapez : git clone https://github.com/mnalokoyotassaou-lang/plateforme_web_genie_industriel.git
 une fois le projet cloner placer vous à la racine du projet et tapez : python manage.py runserver
 rendez vous dans votre navigateur et tapez : http://127.0.0.1:8000/
 une fois la page charger vous trauveri un button connecter qui va vous permettre d'accéder soit à l'interface 
